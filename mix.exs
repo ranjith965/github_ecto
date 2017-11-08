@@ -32,7 +32,7 @@ defmodule GitHub.Ecto.Mixfile do
     [
       maintainers: ["Wojtek Mach"],
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/wojtekmach/github_ecto"},
+      links: %{"GitHub" => "https://github.com/ranjith965/github_ecto"},
     ]
   end
 end
